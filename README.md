@@ -14,6 +14,7 @@ Unlock a collection of **5,000+ premium line icons** designed for **developers**
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://lineicons.com/pricing?ref=GHPimjo)
 ---
 
 ### 2. **TailGrids**
@@ -22,6 +23,7 @@ Access over **600+ high-quality Tailwind CSS UI components**, blocks, and templa
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://tailgrids.com/pricing?ref=GHPimjo)
 ---
 
 ### 3. **FormBold**
@@ -30,6 +32,7 @@ FormBold provides a powerful, no-code form solution with API integration and bac
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://formbold.com/pricing?ref=GHPimjo)
 ---
 
 ### 4. **TailAdmin**
@@ -38,6 +41,7 @@ A complete **Tailwind CSS Dashboard Template** with **200+ essential UI componen
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://tailadmin.com/pricing?ref=GHPimjo)
 ---
 
 ### 5. **SaaSBold**
@@ -46,6 +50,7 @@ The ultimate **Next.js SaaS boilerplate** for **developers** looking for full-st
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://saasbold.com/pricing?ref=GHPimjo)
 ---
 
 ### 6. **NextjsTemplates**
@@ -54,6 +59,7 @@ Over **20+ high-quality Next.js templates** for **developers** looking to quickl
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://nextjstemplates.com/all-access?ref=GHPimjo)
 ---
 
 ### 7. **GrayGrids**
@@ -62,6 +68,7 @@ Choose from **100+ ready-to-use website templates** and **200+ Bootstrap compone
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://graygrids.com/pricing?ref=GHPimjo)
 ---
 
 ### 8. **UiDeck**
@@ -70,6 +77,7 @@ Explore over **100+ high-quality Tailwind CSS and Bootstrap templates** for **de
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://uideck.com/all-access?ref=GHPimjo)
 ---
 
 ### 9. **TailTemplates**
@@ -78,6 +86,7 @@ Pre-built **Premium Tailwind CSS templates** perfect for **startups**, **SaaS**,
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://tailtemplates.com/all-access?ref=GHPimjo)
 ---
 
 ### 10. **NextAdmin**
@@ -86,6 +95,7 @@ Offers a wide range of **Next.js dashboard templates** with **200+ pre-built com
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://nextadmin.co/pricing?ref=GHPimjo)
 ---
 
 ### 11. **AyroUI**
@@ -94,6 +104,7 @@ A powerful **Bootstrap HTML5 UI library** featuring reusable components and bloc
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://ayroui.com/pricing?ref=GHPimjo)
 ---
 
 ### 12. **PlainAdmin**
@@ -102,6 +113,7 @@ Build robust **Bootstrap 5 admin dashboards** with **PlainAdmin**. It offers a c
 - **Coupon Code**: `BLFCM40`
 - **Dates**: 29th November - 2nd December 2024
 
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://plainadmin.com/pricing?ref=GHPimjo)
 ---
 
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
@@ -123,5 +135,3 @@ Almost all these **Black Friday Deals** are available from **29th November 2024*
 
 ## 🛠 **Contribute to the Collection**:
 Know of more amazing **Black Friday deals** for **developers** or **designers**? Feel free to contribute by submitting a pull request! Let's build the ultimate resource for this year's **Black Friday Deals** for the community.
-
-
