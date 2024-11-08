@@ -120,6 +120,19 @@ To explore more exclusive Black Friday and Cyber Monday deals, including sp
 
 ---
 
+### 13. **Broadcast**
+Self-hosted email marketing and automation software. Unlimited lists, subscribers, and a modern UI. Use with your favourite email service provider like Amazon SES, Postmark, Sendgrid, Mailgun, and more. Great for developers, small businesses, and agencies. One time payment license.
+- **Offer**: 35% off all licenses!
+- **Coupon Code**: `BF2024`
+- **Dates**: 7th November - 7th December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://sendbroadcast.net/?ref=GHPimjo)
+---
+
+To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
+
+---
+
 ## 💡 **How to Claim the Black Friday Deals for Developers & Designers**:
 1. Visit the websites of the listed products.
 2. Add your desired tools or templates to the cart.
