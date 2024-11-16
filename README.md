@@ -116,10 +116,6 @@ Build robust **Bootstrap 5 admin dashboards** with **PlainAdmin**. It offers a c
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://plainadmin.com/pricing?ref=GHPimjo)
 ---
 
-To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
-
----
-
 ### 13. **Broadcast**
 Self-hosted email marketing and automation software. Unlimited lists, subscribers, and a modern UI. Use with your favourite email service provider like Amazon SES, Postmark, Sendgrid, Mailgun, and more. Great for developers, small businesses, and agencies. One time payment license.
 - **Offer**: 35% off all licenses!
@@ -127,6 +123,15 @@ Self-hosted email marketing and automation software. Unlimited lists, subscriber
 - **Dates**: 7th November - 7th December 2024
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://sendbroadcast.net/?ref=GHPimjo)
+---
+
+### 14. **Astuto**
+Collect and prioritize feedback from your customers, so you can focus on building what matters. A cheaper alternative to other feedback tools like UserVoice, Canny or Fider. Start your 7-day free trial without credit card, then use the coupon code to apply the discount!
+- **Offer**: 30% OFF all plans!
+- **Coupon Code**: `BLACKFRIDAY2024`
+- **Dates**: 15th November - 8th December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://astuto.io/)
 ---
 
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
