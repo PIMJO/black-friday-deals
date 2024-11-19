@@ -134,6 +134,15 @@ Collect and prioritize feedback from your customers, so you can focus on buildin
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://astuto.io/)
 ---
 
+### 15. **DeployHQ**
+A **powerful code deployment tool** that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools. All new accounts can use the below code for a **50% discount** on their 1st month!
+- **Offer**: 50% discount on 1st month - new accounts
+- **Coupon Code**: `BLACKFRIDAY50`
+- **Dates**: 18th November - 3rd December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.deployhq.com/)
+---
+
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
 
 ---
