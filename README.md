@@ -143,6 +143,24 @@ A **powerful code deployment tool** that allows you to deploy your code from you
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.deployhq.com/)
 ---
 
+### 16. **ExploitPack**
+Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits
+- **Offer**: Free upgrade to LIFETIME **Only 10 licenses available**
+- **Coupon Code**: `BLACKFRIDAYLIFETIME`
+- **Dates**: 20th November - 30th December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://exploitpack.com/indexexploitpack.html)
+---
+
+### 17. **ControlPack**
+Control Pack - Command & Control Framework, not detected by AVs and EDRs
+- **Offer**: Free upgrade to LIFETIME **Only 10 licenses available**
+- **Coupon Code**: `BLACKFRIDAYLIFETIME`
+- **Dates**: 20th November - 30th December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://exploitpack.com/indexcontrolpack.html)
+---
+
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
 
 ---
