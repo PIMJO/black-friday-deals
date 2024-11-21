@@ -197,7 +197,149 @@ An all-in-one **macOS toolbox for developers** that integrates seamlessly with y
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://devutils.com/)
 ---
 
-###
+### 22. **Proxyman**  
+A **high-performance debugging proxy tool** for capturing and inspecting HTTP/HTTPS requests, perfect for API debugging and traffic monitoring.  
+- **Offer**: 50% OFF  
+- **Coupon Code**: `BLACKFRIDAY2024`  
+- **Validity**: Until December 3, 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://proxyman.io/)
+---
+
+### 23. **Aptakube**  
+A **desktop application** that simplifies managing Kubernetes environments with a user-friendly interface, ideal for developers and DevOps engineers.  
+- **Offer**: 30% OFF  
+- **Coupon Code**: `BLACKFRIDAY2024`  
+- **Validity**: Until December 3, 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://aptakube.com/)
+---
+
+### 24. **LocalCan**  
+A **local development environment** that supports Docker and Kubernetes, helping you build and test containerized apps seamlessly.  
+- **Offer**: 25% OFF  
+- **Coupon Code**: `BF25`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.localcan.com/)
+---
+
+### 25. **DeskVault**  
+A **secure password manager** with advanced encryption, offline access, and features for organizing passwords efficiently.  
+- **Offer**: 30% OFF  
+- **Coupon Code**: `BF24`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://deskvault.app/)
+---
+
+### 26. **OK JSON**  
+A **tool to view, edit, and format JSON files**, offering a clean and intuitive interface for managing large datasets and debugging.  
+- **Offer**: 50% OFF  
+- **Coupon Code**: `BF2024`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://okjson.app/)
+---
+
+### 27. **Snappify**  
+A **presentation tool** for developers and designers to style and share code snippets with beautiful themes and design options.  
+- **Offer**: 30% OFF  
+- **Coupon Code**: `BF_2024`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://snappify.com/)
+---
+
+### 28. **Guidejar**  
+A **centralized knowledge repository** for storing and sharing internal guides and best practices, making team collaboration smoother.  
+- **Offer**: 40% OFF  
+- **Coupon Code**: `BLACKFRIDAY24`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.guidejar.com/)
+---
+
+### 29. **Uxcel**  
+Uxcel is a great platform for learning **UI/UX skills**. It helps you grow and refine your design skills and create stunning projects. The platform offers a library of design challenges used by over 350K design and product professionals worldwide. 
+- **Offer**: 50% OFF lifetime on all plans  
+- **Coupon Code**: `BFCM2024`  
+- **Validity**: November 29 through December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://uxcel.com/bfcm-2024)
+---
+
+### 30 **Mockplus**  
+Mockplus is a powerful tool for **design collaboration** and prototyping for teams. It simplifies the design process for **UI/UX designers** and allows them to create engaging prototypes without the need for solid coding knowledge. 
+- **Offer**: Check back soon for updates!  
+- **Coupon Code**: Check back soon for updates!  
+- **Validity**: Check back soon for updates!  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.mockplus.com/pricing/mockplus-rp)
+---
+
+### 31. **Supercharge Design**  
+Supercharge Design offers premier **video courses** and learning materials for **UI/UX designers**. It helps both beginners and professional designers enhance their skills efficiently. The courses cover essential design principles, interactive tools, and advanced techniques, improving both design and technical skills.  
+- **Offer**: Up to 96% discount on selected courses  
+- **Coupon Code**: `BFS2024`  
+- **Validity**: Until December 6, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://uimastery.design/black-friday)
+---
+
+### 32. **ProtoPie**  
+ProtoPie is a powerful tool for creating **interactive prototypes** and wireframes. It allows **UI/UX designers** to convert design concepts into functional prototypes without coding. The platform offers advanced animations, interactions, and responsive layouts, making it perfect for validating ideas early in the design process.  
+- **Offer**: 20% OFF on Basic plan, 40% OFF on Pro plan  
+- **Coupon Code**: `BASIC20` & `PRO40`  
+- **Validity**: Until November 30, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.protopie.io/)
+---
+
+### 33. **Coupler.io**  
+Coupler.io is a simple **no-code data automation platform** that enables you to import, merge, and analyze data from various sources. It seamlessly integrates with your data, making it easy to build dashboards, generate reports, and sync data across platforms.  
+- **Offer**: 30% OFF on all plans for the first payment  
+- **Coupon Code**: `CPLBF24`  
+- **Validity**: November 1 to December 6, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.coupler.io/)
+---
+
+### 34. **Domestika**  
+Domestika is a renowned online **learning platform** for creatives and designers, offering high-quality courses from industry experts. It provides a great environment for designers of all levels to improve their skills.  
+- **Offer**: 75% OFF  
+- **Coupon Code**: No Coupons Needed  
+- **Validity**: November 24 to December 29, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.domestika.org/)
+---
+
+### 35. **Stripo**  
+Stripo is a powerful **email design platform** that allows you to create stunning email templates without coding. It offers drag-and-drop functionality, pre-designed templates, and integrations with various email service providers.  
+- **Offer**: 5 months free with any annual plan  
+- **Coupon Code**: `CLEAROUTBF`  
+- **Validity**: November 24 to December 29, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://stripo.email/)
+---
+
+### 36. **SmartMockups**  
+SmartMockups helps designers and marketers create **engaging presentations** of their designs with high-quality mockups and exports. It features a simple interface and a large customizable library.  
+- **Offer**: 30% OFF  
+- **Coupon Code**: `BLACKFRIDAY30`  
+- **Validity**: November 20 to November 30, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://smartmockups.com/)
+---
+
+### 37. **Wisery.io**  
+Wisery.io helps you create **digital business cards** and **links in bio** tools to build your brand, generate leads, and network efficiently. It’s perfect for freelancers and business owners who want to stay connected with their audience.  
+- **Offer**: 25% OFF  
+- **Coupon Code**: `BFW2024`  
+- **Validity**: November 25 to December 2, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://wisery.io/)
+---
 
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
 
