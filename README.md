@@ -8,6 +8,8 @@ Whether you're building websites, apps, or design systems, these exclusive disco
 
 ## 🔥 **Best Black Friday Deals for Developers & Designers (2024)**:
 
+**Total Deals Count**: 35+
+
 ### 1. **Lineicons**
 Unlock a collection of **5,000+ premium line icons** designed for **developers** and **designers** alike. Available in **SVG**, **Figma**, **Icon Font**, **JSX**, and more. Lineicons also features Pro CDN support, multiple styles, and a built-in icon editor.
 - **Offer**:  40% Flat Discount on All Pro Plans!
@@ -269,7 +271,7 @@ Uxcel is a great platform for learning **UI/UX skills**. It helps you grow and r
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://uxcel.com/bfcm-2024)
 ---
 
-### 30 **Mockplus**  
+### 30. **Mockplus**  
 Mockplus is a powerful tool for **design collaboration** and prototyping for teams. It simplifies the design process for **UI/UX designers** and allows them to create engaging prototypes without the need for solid coding knowledge. 
 - **Offer**: Check back soon for updates!  
 - **Coupon Code**: Check back soon for updates!  
