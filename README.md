@@ -170,6 +170,35 @@ Nuelink is a social media management and automation tool designed for a wide ran
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://nuelink.com/pricing)
 ---
 
+### 19. Markopolo 
+An automation tool that captures lost visitors with a first-party data tracking tool, provides detailed analysis and reporting, and includes a personal AI assistant to provide insights from your marketing data.
+- **Offer**: **75%** off on all annual plans
+- **Coupon Code**: _No code required_
+- **Dates**: Live until Cyber Monday
+  
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.markopolo.ai/black-friday)
+---
+
+### 20. Fullstro
+FullStro is multi-channel inventory management software with efficient stock control and order fulfillment solutions for your business. Whether you have a small business or a large enterprise, FullStro can support you from warehouse management to order delivery and tracking. 
+- **Offer**: **70%** OFF on Lifetime Deal plans
+- **Coupon Code**: _Auto Applied_
+- **Dates**: 13th Nov – 6th Dec 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://fullstro.com/black-friday-deal)
+---
+
+### 21. **DevUtils**  
+An all-in-one **macOS toolbox for developers** that integrates seamlessly with your workflow, offering tools for data analysis, debugging, and much more.  
+- **Offer**: 50% OFF  
+- **Coupon Code**: `BLACKFRIDAY_2024`  
+- **Validity**: Until December 3, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://devutils.com/)
+---
+
+###
+
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
 
 ---
