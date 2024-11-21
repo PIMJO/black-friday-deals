@@ -161,6 +161,15 @@ Control Pack - Command & Control Framework, not detected by AVs and EDRs
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://exploitpack.com/indexcontrolpack.html)
 ---
 
+### 18. **Nuelink**
+Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener.
+- **Offer**: **50% OFF** on all yearly plans
+- **Coupon Code**: _No code required_
+- **Dates**: 5th November - 9th December 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://nuelink.com/pricing)
+---
+
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
 
 ---
