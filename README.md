@@ -342,7 +342,9 @@ Wisery.io helps you create **digital business cards** and **links in bio** tools
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://wisery.io/)
 ---
+
 ### 38. **HammerAI**
+
 Hammerai is a Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models.
 - **offer**:50% OFF
 - **coupon Code**:`BZAOH18`
