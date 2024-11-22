@@ -342,9 +342,13 @@ Wisery.io helps you create **digital business cards** and **links in bio** tools
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://wisery.io/)
 ---
+###38. **Hammer AI**
 
 To explore more exclusive Black Friday and Cyber Monday deals, including special offers from our top products, visit our deal page at [Pimjo - Black Friday Deals](https://pimjo.com/black-friday-cyber-monday-deal).
-
+Hammer ai is a **chat ai** Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models.
+-**offer**:50% off 
+-**coupon code**:`BZAOH18`
+-**validity**:November 22 to November 30, 2024
 ---
 
 ## 💡 **How to Claim the Black Friday Deals for Developers & Designers**:
