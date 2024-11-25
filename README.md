@@ -349,8 +349,19 @@ Hammerai is a Private and uncensored character chat app - either run models loca
 - **offer**:50% OFF
 - **coupon Code**:`BZAOH18`
 - **Validity**: November 20 to November 30, 2024
+
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.hammerai.com/)
 ---
+
+### 39. **XGetter.com**  
+
+XGetter is a media downloader that allows users to download videos and audio from a wide variety of online platforms, including YouTube, Facebook, Instagram, X (formerly Twitter), TikTok, Vimeo, and others. It supports resolutions up to 8K and offers features such as downloading without watermarks, managing downloaded files, and operating on multiple platforms (macOS, Windows, and Linux)
+
+- **Offer**: 60% OFF  
+- **Coupon Code**: `BLACKFRIDAY2024`  
+- **Validity**: November 21 to December 30, 2024  
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://xgetter.com/?utm_source=aw_bf2024)
 
 ## 💡 **How to Claim the Black Friday Deals for Developers & Designers**:
 1. Visit the websites of the listed products.
