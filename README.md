@@ -373,6 +373,16 @@ Tower is a beautiful, native Git client designed to make Git easy (and actually 
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.git-tower.com/)
 
+### 41. **CSS Scan**  
+
+The fastest and easiest way to check and copy CSS. Goodbye to "Inspect Element" — Check the CSS of any element you hover over, instantly, and copy its entire rules with a single click.
+
+- **Offer**: 67% OFF  
+- **Coupon Code**: _No code required_
+- **Validity**: Until November 30, 2024
+
+[![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://getcssscan.com/)
+
 ## 💡 **How to Claim the Black Friday Deals for Developers & Designers**:
 1. Visit the websites of the listed products.
 2. Add your desired tools or templates to the cart.
