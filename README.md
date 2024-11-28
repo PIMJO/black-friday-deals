@@ -362,6 +362,7 @@ XGetter is a media downloader that allows users to download videos and audio fro
 - **Validity**: November 21 to December 30, 2024  
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://xgetter.com/?utm_source=aw_bf2024)
+---
 
 ### 40. **Tower — Git client for Mac and Windows**  
 
@@ -372,6 +373,7 @@ Tower is a beautiful, native Git client designed to make Git easy (and actually 
 - **Validity**: Until December 8, 2024
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://www.git-tower.com/)
+---
 
 ### 41. **CSS Scan**  
 
@@ -382,6 +384,7 @@ The fastest and easiest way to check and copy CSS. Goodbye to "Inspect Element" 
 - **Validity**: Until November 30, 2024
 
 [![Claim Deal](https://img.shields.io/badge/Claim%20Deal-%234CAF50?style=for-the-badge)](https://getcssscan.com/)
+---
 
 ## 💡 **How to Claim the Black Friday Deals for Developers & Designers**:
 1. Visit the websites of the listed products.
